@@ -1,2 +1,0 @@
-# Ermyas
-test repository 
